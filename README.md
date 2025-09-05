@@ -68,6 +68,7 @@ The goal is to assist in **automated dental diagnostics** potentially helping de
 ├── Teeth Classification Project Report.pdf   # Detailed project report
 ├── README.md                   # Project documentation
 ├── training.log                # Log file recording training process
+├── requirements.txt
 ├── visualization_outputs               # visualization outputs are saved in this folder (couldn't be uploaded because of the size)     
 └── Teeth_Dataset                      # Dataset (couldn't be uploaded because of the size)
 ```
